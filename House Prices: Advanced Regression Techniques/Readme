@@ -1,1 +1,8 @@
 Predict sales prices and practice feature engineering, RFs, and gradient boosting
+
+
+Using Random Forest, the model gives good performance but has a less score on Kaggle as compared to
+XGBoost model which gives better result and better score on Kaggle.
+
+Using random forest model..my rank is 2561 out of 4892
+Using XGBoost model..my rank is 1733 out of 4892..(please keep in mind that the model is not yet tuned perfectly)
